@@ -1,0 +1,4 @@
+name: RealityHub
+version: '1.0-SNAPSHOT'
+main: dev.siwakornsep.realityHub.RealityHub
+api-version: '1.21'
