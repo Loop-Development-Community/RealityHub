@@ -19,9 +19,10 @@ repositories {
 dependencies {
     compileOnly("org.spigotmc:spigot-api:1.21.4-R0.1-SNAPSHOT")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+    implementation("mysql:mysql-connector-java:9.2.0")
 }
 
-val targetJavaVersion = 21
+val targetJavaVersion = 24
 kotlin {
     jvmToolchain(targetJavaVersion)
 }

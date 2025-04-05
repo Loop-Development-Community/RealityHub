@@ -1,0 +1,66 @@
+{
+  "player":{
+    "main": {
+      "basic": {
+        "userid": 0,
+        "uuid": "",
+        "display-name": "",
+        "username": "",
+        "game-name": "",
+        "email-hash": "",
+        "password-hash": "",
+        "country": "",
+        "datetime-created": ""
+      },
+      "token":{
+        "mod-token": "",
+        "web-token": "",
+        "google-token": "",
+        "meta-token": "",
+        "x-token": "",
+        "bluesky-token": "",
+        "github-token": "",
+        "discord-token": ""
+      },
+      "subscription": {
+        "lvl": 0,
+        "token": ""
+      }
+    },
+    "hub": {
+      "primary": {
+        "exp": 0,
+        "cap": 0,
+        "lvl": 0,
+        "coins": 0,
+        "gems": 0
+      },
+      "faction":{
+        "faction-id": 0,
+        "exp": 0,
+        "cap": 0,
+        "lvl": 0
+      },
+      "stats":{
+        "overall-kills": 0,
+        "overall-dies": 0,
+        "overall-assist": 0,
+        "overall-points-collect": 0,
+        "overall-points-losing": 0,
+        "overall-damages-taken": 0,
+        "overall-damages-send": 0
+      },
+      "achievement": {
+        "TrueProtectionist": false,
+        "UnsignedTreaty": false,
+        "RageDictator": false,
+        "OnlyOneInHere": false,
+        "GottaGoFast": false,
+        "ObstacleCourse": false,
+        "IsFalseThatItImproveEconomy": false,
+        "ResearchUnits": false,
+        "BusinessmanBeLike": false
+      }
+    }
+  }
+}
